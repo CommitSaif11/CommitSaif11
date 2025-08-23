@@ -1,14 +1,16 @@
-<h1 align="center">
-  <a href="https://github.com/CommitSaif11">
-    <img src="https://custom-icon-badges.demolab.com/badge/Hello-I'm%20Md%20Saif%20Alam!-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Hello, I'm Md Saif Alam!">
-  </a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Md+Saif+Alam!&font=Fira%20Code&size=35&pause=1000&color=00aeff&center=true" alt="Hello, I'm Md Saif Alam!" />
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Scientist-28a745?style=for-the-badge&logo=appveyor" alt="Data Scientist">
   <img src="https://img.shields.io/badge/AI%20Enthusiast-blueviolet?style=for-the-badge&logo=appveyor" alt="AI Enthusiast">
   <img src="https://img.shields.io/badge/ML%20&%20DL%20Developer-ff69b4?style=for-the-badge&logo=appveyor" alt="ML & DL Developer">
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/CommitSaif11">
