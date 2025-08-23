@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Md+Saif+Alam!&font=Montserrat&size=30&pause=1500&color=00aeff&vCenter=true&width=435" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Md+Saif+Alam!&font=Montserrat&size=30&pause=1500&color=00aeff&vCenter=true&width=500" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -127,14 +127,6 @@ My journey is fueled by a desire to transform complex data into intelligent, act
 
 ---
 
-### 🏆 My GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CommitSaif11&theme=radical&no-frame=true&no-bg=true" alt="Md Saif Alam's GitHub Trophies" />
-</p>
-
----
-
 ### 📈 My GitHub Stats
 
 <p align="center">
@@ -171,3 +163,6 @@ My journey is fueled by a desire to transform complex data into intelligent, act
 <p align="center">
   <sub>Last updated: Sunday, August 24, 2025</sub>
 </p>
+<br>
+This video provides a tutorial on how to create an animated GitHub profile README with a typing SVG effect, which is relevant to your request. [How To Make A Killer GitHub Profile Readme 2023](https://www.youtube.com/watch?v=eHaXw8Bd_ms)
+http://googleusercontent.com/youtube_content/0
