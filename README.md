@@ -1,5 +1,13 @@
+<h1 align="center">
+  <a href="https://github.com/CommitSaif11">
+    <img src="https://custom-icon-badges.demolab.com/badge/Hello-I'm%20Md%20Saif%20Alam!-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Hello, I'm Md Saif Alam!">
+  </a>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=       Hello,+I'm+Md+Saif+Alam!&font=Montserrat&size=30&pause=1500&color=00aeff&vCenter=true&width=500" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-28a745?style=for-the-badge&logo=appveyor" alt="Data Scientist">
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-blueviolet?style=for-the-badge&logo=appveyor" alt="AI Enthusiast">
+  <img src="https://img.shields.io/badge/ML%20&%20DL%20Developer-ff69b4?style=for-the-badge&logo=appveyor" alt="ML & DL Developer">
 </p>
 
 <p align="center">
@@ -19,15 +27,9 @@
   </a>
 </p>
 
-<br>
-
 ---
 
 ### 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+AI+Enthusiast+%7C+ML+%26+DL+Developer&font=Fira+Code&size=20&pause=1000&color=9cf&vCenter=true&width=490" alt="Dynamic About Me Description" />
-</p>
 
 <p align="left">
 I am <b>Md Saif Alam</b>, a passionate <b>Data Scientist</b> and <b>AI enthusiast</b>, currently honing my skills in **Artificial Intelligence** and **Machine Learning** in Bengaluru. I have a strong foundation in modern web technologies and appreciate the benefits of languages like <b>TypeScript</b> for building robust and scalable applications.
@@ -58,7 +60,7 @@ My journey is fueled by a desire to transform complex data into intelligent, act
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -163,6 +165,3 @@ My journey is fueled by a desire to transform complex data into intelligent, act
 <p align="center">
   <sub>Last updated: Sunday, August 24, 2025</sub>
 </p>
-<br>
-This video provides a tutorial on how to create an animated GitHub profile README with a typing SVG effect, which is relevant to your request. [How To Make A Killer GitHub Profile Readme 2023](https://www.youtube.com/watch?v=eHaXw8Bd_ms)
-http://googleusercontent.com/youtube_content/0
