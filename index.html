@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Banner</title>
+    <style>
+        body { margin: 0; background-color: #0d1117; overflow: hidden; display: flex; justify-content: center; align-items: center; height: 100vh; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+    <canvas id="particleCanvas"></canvas>
+    <script>
+        const canvas = document.getElementById('particleCanvas');
+        const ctx = canvas.getContext('2d');
+        let width, height;
+        let particles = [];
+        const particleCount = 100;
+        const gridSize = 10;
+        const baseColor = [10, 20, 30]; // Dark base color
+
+        function resizeCanvas() {
+            width = window.innerWidth;
+            height = window.innerHeight;
+            canvas.width = width;
+            canvas.height = 120; // Fixed height for the banner
+            initializeParticles();
+        }
+
+        function initializeParticles() {
+            particles = [];
+            for (let i = 0; i < particleCount; i++) {
+                const col = Math.floor(i / gridSize);
+                const row = i % gridSize;
+                particles.push({
+                    x: (width / gridSize) * col + (width / (2 * gridSize)),
+                    y: (120 / (particleCount / gridSize)) * row + (120 / (2 * (particleCount / gridSize))),
+                    vx: (Math.random() - 0.5) * 0.5,
+                    vy: (Math.random() - 0.5) * 0.5,
+                    colorOffset: [Math.random() * 30, Math.random() * 30, Math.random() * 30],
+                    radius: Math.random() * 2 + 1,
+                });
+            }
+        }
+
+        function animate() {
+            requestAnimationFrame(animate);
+            ctx.clearRect(0, 0, width, 120);
+
+            particles.forEach(particle => {
+                particle.x += particle.vx;
+                particle.y += particle.vy;
+
+                // Bounce off edges
+                if (particle.x < 0 || particle.x > width) particle.vx *= -1;
+                if (particle.y < 0 || particle.y > 120) particle.vy *= -1;
+
+                const color = baseColor.map((b, index) => Math.max(0, Math.min(255, b + particle.colorOffset [index])));
+                ctx.fillStyle = `rgb(${color.join(',')})`;
+                ctx.beginPath();
+                ctx.arc(particle.x, particle.y, particle.radius, 0, Math.PI * 2);
+                ctx.fill();
+            });
+        }
+
+        window.addEventListener('resize', resizeCanvas);
+        resizeCanvas();
+        animate();
+    </script>
+</body>
+</html>
