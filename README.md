@@ -1,12 +1,19 @@
-<p align="center">
-  <iframe
-    src="https://commitsaif11.github.io/CommitSaif11"
-    width="100%"
-    height="120"
-    frameborder="0"
-    scrolling="no"
-  ></iframe>
-</p>
+<h1 class="intro">Hello I'm Md Saif Alam</h1>
+
+<style>
+  .intro {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0;
+    animation: fadeIn 3s ease-in forwards;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
 
 ---
 
