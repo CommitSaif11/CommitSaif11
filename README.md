@@ -1,48 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Intro</title>
-  <style>
-    body {
-      background: #0f0f0f; /* Dark background */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      font-family: 'Poppins', sans-serif;
-    }
+<h1 class="intro">Hello I'm Md Saif Alam</h1>
 
-    .intro {
-      font-size: 3rem;
-      font-weight: 700;
-      text-align: center;
-      background: linear-gradient(90deg, #00dbde, #fc00ff);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
+<style>
+  body {
+    background: #0f0f0f; /* dark aesthetic background */
+    font-family: 'Poppins', sans-serif; /* modern font */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  .intro {
+    font-size: 3rem;
+    font-weight: 700;
+    background: linear-gradient(90deg, #00dbde, #fc00ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeUp 2.5s ease-out forwards;
+  }
+
+  @keyframes fadeUp {
+    from {
       opacity: 0;
-      transform: translateY(30px);
-      animation: fadeInUp 2.5s ease forwards;
+      transform: translateY(40px);
     }
-
-    @keyframes fadeInUp {
-      from {
-        opacity: 0;
-        transform: translateY(30px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
+    to {
+      opacity: 1;
+      transform: translateY(0);
     }
-  </style>
-</head>
-<body>
-  <h1 class="intro">Hello I'm Md Saif Alam</h1>
-</body>
-</html>
+  }
+</style>
 
 ---
 
