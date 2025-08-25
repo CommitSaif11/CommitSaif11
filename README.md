@@ -1,38 +1,4 @@
-<h1 class="intro">Hello I'm Md Saif Alam</h1>
-
-<style>
-  body {
-    background: #0f0f0f; /* dark aesthetic background */
-    font-family: 'Poppins', sans-serif; /* modern font */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
-
-  .intro {
-    font-size: 3rem;
-    font-weight: 700;
-    background: linear-gradient(90deg, #00dbde, #fc00ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    opacity: 0;
-    transform: translateY(20px);
-    animation: fadeUp 2.5s ease-out forwards;
-  }
-
-  @keyframes fadeUp {
-    from {
-      opacity: 0;
-      transform: translateY(40px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=500&color=00DBDE&center=true&vCenter=true&width=600&lines=Hello+I'm+Md+Saif+Alam)](https://git.io/typing-svg)
 
 ---
 
