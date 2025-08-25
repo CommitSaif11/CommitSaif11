@@ -1,6 +1,6 @@
 <p align="center">
   <iframe
-    src="https://commitsaif11.github.io/CommitSaif11/"
+    src="https://commitsaif11.github.io/CommitSaif11"
     width="100%"
     height="120"
     frameborder="0"
