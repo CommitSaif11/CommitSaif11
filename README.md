@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=500&color=00DBDE&center=true&vCenter=true&width=600&lines=Hello+I'm+Md+Saif+Alam)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=38&duration=1800&pause=800&color=A66EFF&center=true&vCenter=true&width=700&height=60&lines=Hii+I'm+Md+Saif+Alam" alt="Hii I'm Md Saif Alam" />
+</p>
 
 ---
 
