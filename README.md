@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=1800&pause=800&color=2e8b57&center=true&vCenter=true&width=700&height=60&lines=Hello+I'm+Md+Saif+Alam" alt="Hello I'm Md Saif Alam" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=36B6F7&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Hii+I+am+;Md+Saif+Alam" alt="Hii I am Md Saif Alam" />
 </p>
 
 <br>
