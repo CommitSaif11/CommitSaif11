@@ -104,12 +104,12 @@ With a solid foundation in both data science principles and modern web technolog
   <li>
     <a href="https://github.com/CommitSaif11/aqualink_hackathon_saif" target="_blank">
       <b>🌊 AquaLink</b>
-    </a>: A hackathon project focused on innovative water management and conservation strategies using data-driven insights. It demonstrates my ability to rapidly prototype and apply data science to solve critical environmental challenges.
+    </a>: A hackathon project focused on innovative water management and conservation strategies using data-driven insights. It demonstrates my ability to rapidly prototype and apply data science to solve critical environmental challenges. This is a group project, my role was frontend development in this project and manuevering my data science and ML capabilities.
   </li>
   <li>
     <a href="https://github.com/CommitSaif11/water-predictor-model" target="_blank">
-      <b>💧 Water Quality Predictor</b>
-    </a>: A machine learning model designed to predict water quality based on various environmental and chemical parameters, ensuring safe and sustainable water usage.
+      <b>💧 Water Usage Predictor</b>
+    </a>: This model predicts water usage overtime with respect to the growing population. It uses linear regression model.
   </li>
   <li>
     <a href="https://github.com/CommitSaif11/Twitter-cryptocurrency" target="_blank">
